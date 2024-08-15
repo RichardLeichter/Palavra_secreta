@@ -1,7 +1,7 @@
 Primeiro Projeto em Phython 3.
 
 
-Jogo Simples de Forca Palavra secrta.
+Jogo Simples da Palavra secrta.
 
 
 Existem dois arquivos.
