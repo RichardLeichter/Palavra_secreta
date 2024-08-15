@@ -1,4 +1,5 @@
-# from palavra_forca import palavra #usado para importar de outro documento na mesma pasta
+# from palavra_secreta import palavra #usado para importar de outro documento na mesma pasta
+# arquivo palavra secreta é opcional, caso jogue em duas pessoas.
 palavra = 'python'
 letras_usuario = []
 chances = 5
